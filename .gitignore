@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# misc
+.DS_Store
+.idea
+Thumbs.db
+
+# local .env
+.env.local
+.env.*.local
+
+# caches
+.turbo
+.eslintcache
+*.tsbuildinfo
