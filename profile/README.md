@@ -1,4 +1,4 @@
-![Product & Engineering](/resources/dst-product-engineering.png "Logo der Development Abteilung Product & Engineering")
+![Product & Engineering](../resources/dst-product-engineering.png "Logo der Development Abteilung Product & Engineering")
 
 ## Über uns
 
